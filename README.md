@@ -22,19 +22,19 @@ The primary goal of this project is to develop a comprehensive business intellig
 
 - **Project objective:** 
 
-    **1.** Create a customer performance report _[cust performance](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_ 
+    **1.** Create a customer performance report _[cust performance](https://github.com/danie-bit/Excel_Sales-and-Finance-Report/blob/main/Customer%20Performance%20Report.pdf)_ 
 
-    **2.** Conduct a comprehensive comparison between market performance and sales targets _[Market Performance vs. Targets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_
+    **2.** Conduct a comprehensive comparison between market performance and sales targets _[Market Performance vs. Targets](https://github.com/danie-bit/Excel_Sales-and-Finance-Report/blob/main/Market%20Performance%20VS%20Target.pdf)_
 
-    **3.** Analyze annual net sales across divisions to uncover trends and assess the contribution of each division to overall revenue. _[Division wise netsales](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_
+    **3.** Analyze annual net sales across divisions to uncover trends and assess the contribution of each division to overall revenue. _[Division wise netsales](https://github.com/danie-bit/Excel_Sales-and-Finance-Report/blob/main/Division-wise%20report%20by%20NetSales%20in%202020%2C2021.pdf)_
 
-    **4.** Highlight the top-performing countries based on net sales to pinpoint key markets driving business growth. _[Top 5 Countries by Net Sales](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_
+    **4.** Highlight the top-performing countries based on net sales to pinpoint key markets driving business growth. _[Top 5 Countries by Net Sales](https://github.com/danie-bit/Excel_Sales-and-Finance-Report/blob/main/Top%205%20countries%20by%20NetSales%2021.pdf)_
 
-    **5.** Identify the best-selling and least-performing products to guide inventory management and marketing strategies. _[Top 5 and Bottom 5 Products by Quantity Sold](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_
+    **5.** Identify the best-selling and least-performing products to guide inventory management and marketing strategies. _[Top 5 and Bottom 5 Products by Quantity Sold](https://github.com/danie-bit/Excel_Sales-and-Finance-Report/blob/main/Top%205%20and%20Bottom%205%20products%20by%20Quantity.pdf)_
 
-    **6.** Evaluate the market reception and sales performance of products introduced during the year to assess their impact on overall business. _[New Products Performance](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_
+    **6.** Evaluate the market reception and sales performance of products introduced during the year to assess their impact on overall business. _[New Products Performance](https://github.com/danie-bit/Excel_Sales-and-Finance-Report/blob/main/New%20products%2021.pdf)_
 
-    **7.** Analyze products with the highest percentage growth in sales during 2021 to recognize emerging trends and successful launches. _[Top 10 Products by % Increase in 2021](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_
+    **7.** Analyze products with the highest percentage growth in sales during 2021 to recognize emerging trends and successful launches. _[Top 10 Products by % Increase in 2021](https://github.com/danie-bit/Excel_Sales-and-Finance-Report/blob/main/Top%2010%20products%20by%20%25%20increase%2021.pdf)_
 
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
@@ -48,11 +48,11 @@ The primary goal of this project is to develop a comprehensive business intellig
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Months.pdf)_ 
+    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/danie-bit/Excel_Sales-and-Finance-Report/blob/main/P%20%26%20L%20report.pdf)_ & _[Months](https://github.com/danie-bit/Excel_Sales-and-Finance-Report/blob/main/P%20%26%20L%20report%20by%20month.pdf)_ 
 
-   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
+   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/danie-bit/Excel_Sales-and-Finance-Report/blob/main/P%20%26%20L%20report%20by%20markets.pdf)_
   
-   **3.** Track quarterly gross margin percentages to assess financial efficiency and identify trends in cost management. _[Gross Margin % by Quarters](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
+   **3.** Track quarterly gross margin percentages to assess financial efficiency and identify trends in cost management. _[Gross Margin % by Quarters](https://github.com/danie-bit/Excel_Sales-and-Finance-Report/blob/main/Gross%20Margin%20%25%20by%20Quarters.pdf)_
 
 
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
